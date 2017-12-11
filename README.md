@@ -51,5 +51,10 @@ The project will be carried out by both Me and Joe
 The flowchart showcases the general layout of the countdown game and the features and functions that are planned to be included with the game. Emphasis on the randomization aspect of the game and how the scoring works, where most of the functions match that of project 3.
 
 ## Creation and Implementation
+#### Test Plan
+The test plan is uploaded seperately [here.](https://github.com/LBruni98/Countdown/blob/master/Countdown%20Test%20Plan.docx)
+
+##### Evaluation
+The testing here was carried out to finding errors that may of come up during the development of the game or other unsightly bugs with this plan also helping out what we may need to do in order to fix each error. What this accomplished was the game actually being more stable as development went on, being that the test plan was more or less used within development after creating the features of the game. This ultimately helped with the development of the game, making it much quicker and seeing more stable game, than risking the testing at the end of development.
 
 ## Research
